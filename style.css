@@ -1,0 +1,247 @@
+body {
+    margin: 0px;
+    font-family: "Andika", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+    background-color: #f3cf0a;
+    padding: 10px;
+
+}
+
+h1,h2{
+    font-family: "Cuprum", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.main-a {
+    display: block;
+    width: fit-content;
+    margin: 0px auto;
+    color: black;
+    background-color: #EACC21;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+.main-a:hover {
+    box-shadow: 3px 5px 10px 0;
+
+}
+
+.main-info-article img {
+    height: 150px;
+    width: 200px;
+    border-radius: 5%;
+
+}
+
+.color-p {
+    color: #1c12ae;
+}
+
+
+.main-info-article {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    flex-direction: column;
+    width: 30%;
+    padding: 5px;
+    background-color: #d8d8d8;
+    border-radius: 5%;
+}
+
+.main-info {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-info-article p {
+    height: 50%;
+}
+
+.color-h2 {
+    color: #EE8B14;
+}
+
+.color-h2x1 {
+    color: #921eaf;
+}
+
+.color-h2x2 {
+    color: #1c12ae;
+}
+
+.location {
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    width: 90%;
+    margin: 10px auto;
+    padding: 40px;
+}
+
+
+
+.location-inframe:hover {
+    box-shadow: 0px 0px 10px 5px;
+}
+
+.engimg center img {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    flex-direction: column;
+    width: 400px;
+    padding: 5px;
+    border-radius: 5%;
+}
+
+.engimg center img:hover {
+    box-shadow: 0px 0px 10px 5px #1c12ae;
+}
+
+.vidlog {
+    border-radius: 5%;
+}
+
+.vidlog:hover {
+    box-shadow: 0px 0px 5px 5px red
+}
+
+.waltimg {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.waltrew {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.waltrew article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 ;
+    background-color: #d8d8d8;
+    border-radius: 5%;
+    width:80%;
+    padding: 5px;
+}
+
+.waltrew article div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 70%;
+}
+
+.waltrew article div p {
+    width: 80%;
+}
+
+.end{
+    background-color:#f3cf0a ;
+    padding: 10px;
+}
+
+.tubelog{
+    width: 50px;
+    height: 45px;
+    border-radius: 50%;
+   
+}
+
+.vid{
+    margin: 0px auto;
+    color: black;
+    background-color:red;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.vid:hover{
+    box-shadow: 0px 0px 5px 5px black ;
+}
+
+.vidbook{
+    margin: 0px auto;
+    color: black;
+    background-color:#2272ed;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px
+}
+
+.vidbook:hover{
+    box-shadow: 0px 0px 5px 5px black 
+}
+
+.vidgram{
+    margin: 0px auto;
+    color: black;
+    background-image: linear-gradient(to right, #b11fc2, gold);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+   
+}
+
+.vidgram:hover{
+    box-shadow: 0px 0px 5px 5px black 
+}
+
+
+.heisn:hover{
+   box-shadow: 0px 0px 5px 5px black;
+   border-radius: 5%; 
+   
+}
+
+.text{
+  width: 90%;
+  margin: 0 auto;
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logika{
+   width: 100px;
+   height: 100px;
+   position: absolute;
+}
+
+.mapimg{
+    width: 200px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+.mapimg1{
+    width:400px;
+    height: 300px;
+}
+
